@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color_item_press">#ffff0000</color>
+    <color name="color_item_normal">#44ff0000</color>
+    <color name="line">#d7d7d7</color>
+    <!-- 背景色 -->
+    <color name="bg_color">#f0f0f0</color>
+    <!-- 文字颜色 -->
+    <color name="textblack1">#141414</color>
+    <color name="textblack2">#838383</color>
+    <color name="textblack3">#d2d2d2</color>
+
+    <color name="black"> #000000</color>
+    <color name="white"> #FFFFFF</color>
+    <color name="red"> #FF0000</color>
+    <color name="blue">#4c90f9</color>
+    <color name="blue1">#43C3EA</color>
+    <color name="blue2">#42C9E9</color>
+    <color name="green">#8cc63c</color>
+    <color name="green1">#558cc63c</color>
+    <color name="orange">#E77F20</color>
+    <color name="gray">#8F8F8F</color>
+    <color name="sleep">#4FA2BB</color>
+    <color name="sleepone">#065D79</color>
+    <color name="base_actionbar_bg">#f5f5f5</color>
+    <color name="base_bg">#f4f6f6</color>
+    <color name="color_bottom_text_normal">#9da0a4</color>
+    <color name="transparent">#00000000</color>
+    <color name="guide_color">#898989</color>
+</resources>
